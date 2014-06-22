@@ -17,6 +17,10 @@ management tool. Installing from source is also an option
 
 A recent version (> 0.11) may be required.
 
+For ubuntu 13.10 use 
+
+$ sudo apt-get install python-couchdb
+
 Create Database
 ---------------
 
