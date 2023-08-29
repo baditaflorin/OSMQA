@@ -11,7 +11,7 @@ requires = [
     'pyramid',
     'pyramid_beaker',
     'WebError',
-    'oauth2==1.2.0',
+    'oauth2==1.9.0.post1',
     'CouchDB==0.8'
     ]
 
